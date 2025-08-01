@@ -4,7 +4,7 @@
 
 ![Preview do Projeto](./img/preview.png)
 
-Um site responsivo de NFTs desenvolvido com HTML, CSS e JavaScript. O projeto conta com uma interface moderna, animações fluidas e foco em acessibilidade para todos os dispositivos.
+Um site responsivo de clone da Netflix com HTML, CSS e JavaScript. O projeto conta com uma interface moderna, animações fluidas e foco em acessibilidade para todos os dispositivos.
 
 🔗 **[Acesse o site aqui](https://clone-da-netflix-beta.vercel.app/)**
 
